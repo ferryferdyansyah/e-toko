@@ -1,0 +1,15 @@
+h5 {
+    text-shadow: 2px 2px whitesmoke;
+}
+
+p {
+    text-shadow: 1px black;
+    font-weight: bold;
+}
+
+.container {
+    border-radius: 20px;
+    text-shadow: 2px solid black;
+    background: rgb(255, 255, 255, 0.7);
+    width: 500px;
+}

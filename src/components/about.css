@@ -1,0 +1,17 @@
+.container {
+    font-family: "Viga", sans-serif;
+}
+
+.gam1{
+    border-radius: 100%;
+    width: 370px;
+    height: 370px;
+}
+
+.jumbotron {
+    transition: 0.4s;
+}
+.jumbotron:hover {
+    transform: scale(1.06);
+    z-index: 3;
+}
